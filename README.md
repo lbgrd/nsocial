@@ -6,6 +6,7 @@ Basic social network built with React, Next.js, MongoDB, Passport.js
 - Edit/Delete profile
 - Add/Delete posts
 - Add/Delete comments
+- Like/Unlike comments
 - Follow/Unfollow users
 
 ## Screenshots
