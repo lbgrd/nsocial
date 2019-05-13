@@ -2,7 +2,7 @@
 Basic social network built with React, Next.js, MongoDB, Passport.js
 
 ## Functionalites:
-- Sign up/Sign in/Login
+- User Sign up/Sign in/Login
 - Edit/Delete profile
 - Add/Delete posts
 - Add/Delete comments
@@ -13,7 +13,7 @@ Basic social network built with React, Next.js, MongoDB, Passport.js
 ### Homepage
 ![alt text](https://raw.githubusercontent.com/lbgrd/nsocial/master/screenshots/index-unauth.png "NSocial - Home")
 
-### Logged-in Homepage
+### Logged in Homepage
 ![alt text](https://raw.githubusercontent.com/lbgrd/nsocial/master/screenshots/index-auth.png "NSocial - Auth Homepage")
 
 ### User sign up
